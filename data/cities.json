@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "PT",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "ES",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "DE",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Laconi",
+      "country": "Italy",
+      "emoji": "IT",
+      "date": "2024-03-28T09:30:33.837Z",
+      "notes": "dawv",
+      "position": {
+        "lat": "39.85564227502921",
+        "lng": "9.008789062500002"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Malta",
+      "country": "Malta",
+      "emoji": "MT",
+      "date": "2024-04-04T01:12:32.328Z",
+      "notes": "Nice place",
+      "position": {
+        "lat": "35.787890655541595",
+        "lng": "14.501953125000002"
+      },
+      "id": 98443199
+    }
+  ]
+}
